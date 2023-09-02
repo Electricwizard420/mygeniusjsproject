@@ -1,0 +1,2 @@
+# mygeniusjsproject
+My first project
